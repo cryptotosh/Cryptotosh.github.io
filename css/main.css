@@ -1,0 +1,128 @@
+/*---------------
+    COLOR GUIDE
+ORANGE: rgb(255, 26, 26) or #ff1a1a
+---------------*/
+
+body{
+    font-family: calibri;
+    
+}
+
+.container2{
+    background: #ff471a;
+    background-image: url(../img/images3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 1%; 
+    opacity: 0.8;
+}
+
+.banner h2{
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
+    font-size: 12px;
+    font-weight: 700;
+    margin-left: 10px;
+}
+
+.content{
+    padding: 25px 50px 80px 50px;
+    font-size: 0.8em;
+}
+/*
+.content-main{
+    text-align: center;
+    color: rgb(255, 255, 255);
+}*/
+
+.content-main h1{
+    text-transform: uppercase;
+    font-family: arial;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.content-main p{
+    font-size: 1em;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 5px 70px 20px 50px;
+}
+.more{
+     position:relative;
+    left: 230px;
+    width: 82px;
+    height: 5px;
+    background: #ff471a;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    font-weight: 800;
+    font-size: 0.7em;
+    border-radius: 15px;
+    padding: 12px 10px;
+    margin: 5px 5px;
+}
+.more a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+footer{
+    padding: 50px 120px 0 120px;
+    background: #ff471a;
+    margin-bottom: 10px;
+    color: rgb(255, 255, 255);
+    font-size: 0.65em;
+    margin-bottom: -210px;
+}
+
+.foot{
+    text-align: center;
+}
+
+.foot p{
+    font-size: 1em;
+}
+
+.banner{
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
+    font-weight: 700;
+    margin-top: -10px;
+    opacity: 0.8;
+}
+.banner hr{
+    margin-top: -12px;
+    color: rgb(230, 230, 230);
+    opacity: 0.5;
+}
+
+.content hr{
+    margin-top: 10px;
+}
+
+.foot hr{
+    margin-top: 8px;
+}
+
+.banner ul{
+    text-align: right;
+    list-style-type: none;
+    margin-right: 1%;
+    margin-top: -4%;
+}
+
+.banner li{
+    display: inline-block;
+    margin-left: 17px;
+}
+.banner a{
+    color:rgb(255, 255, 255);
+    text-decoration: none;
+    font-size: 0.6em;
+    padding: 1px;
+}
+.divider{
+    width: 50px;
+    border: 0.5px solid #7777fd;
+}
